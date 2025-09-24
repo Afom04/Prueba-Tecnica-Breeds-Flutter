@@ -1,0 +1,58 @@
+# Flutter/Dart general
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+
+# IDEs y editores
+.vscode/
+.idea/
+*.iml
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos de Android
+android/.gradle/
+android/app/build/
+android/local.properties
+android/key.properties
+*.keystore
+*.jks
+
+# Archivos de iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+xcuserdata/
+*.xcworkspace
+*.xcuserstate
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Archivos de Linux, Windows y macOS builds
+linux/build/
+windows/build/
+macos/Flutter/ephemeral/
+
+# Archivos de Web
+web/.dart_tool/
+web/build/
+
+# Archivos de pruebas
+coverage/
+test/**/*.png
+
+# Archivos de empaquetado
+*.ipa
+*.apk
+*.aab
